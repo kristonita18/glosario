@@ -369,6 +369,11 @@ Puppet es una herramienta diseñada para administrar la configuración de sistem
 # Q
 
 # R
+## RubyGems
+RubyGems es un gestor de paquetes para el lenguaje de programación Ruby que proporciona un formato estándar y autocontenido (llamado gem) para poder distribuir programas o bibliotecas en Ruby, una herramienta destinada a gestionar la instalación de éstos, y un servidor para su distribución. Es, por tanto, equivalente al papel que juegan CPAN y PEAR en los lenguajes Perl y PHP, respectivamente. RubyGems es parte de la librería estándar a partir de la versión 1.9 de Ruby.
+
+RubyGems no es por lo general compatible con los sistemas de gestión de paquetes de Linux
+[Referencia] (https://es.wikipedia.org/wiki/RubyGems)
 
 ## Repositorio
 
