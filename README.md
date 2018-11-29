@@ -386,7 +386,14 @@ Una REST API es una interfaz de programa de aplicación (API) que utiliza solici
 
 [Referencia](https://searchmicroservices.techtarget.com/definition/RESTful-API)
 
-# S
+## S
+## Squid
+Squid es un servidor proxy para web con caché. Es una de las aplicaciones más populares y de referencia para esta función, es un desarrollo en software libre publicado bajo licencia GPL. Entre sus utilidades está la de mejorar el rendimiento de las conexiones de empresas y particulares a Internet guardando en caché peticiones recurrentes a servidores web y DNS, acelerar el acceso a un servidor web determinado o añadir seguridad realizando filtrados de tráfico.
+
+Aunque orientado principalmente a HTTP y HTTPS soporta también otros protocolos como FTP e incluso Gopher. Implementa cifrado SSL/TLS tanto en la conexión al servidor web como a los navegadores y cualquier cliente web que lo soporte.
+
+Squid es una aplicación muy consolidada en Internet. En desarrollo desde los años 1990, se le considera muy completo y robusto y es el software de referencia como servidor proxy-caché de web. Como muchas aplicaciones de software libre está incluido en distribuciones GNU/Linux pero se puede ejecutar también en entornos tipo Unix y hay algunas versiones para MS Windows
+[referencia] (http://www.squid-cache.org/)
 
 ## Snappy
  
